@@ -2,6 +2,8 @@
 <h1 align="center">Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Al - Shahriar</h1>
 <h2 align="center">I'm a Passionate Mern Stack Web Developer From Bangladesh.</h2>
 
+ 
+
 ## 1. 🙋‍♂️ Here Are Some Info About Me:
 
 - 🔭 I’m currently working on **Frontend Web Development**
@@ -33,7 +35,17 @@
 
 <br/>
 
+
 ## 3. 📊 My Github Status
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriar08&show_icons=true&count_private=true)  
+<br/>
+
+## 4. My Github Contribution:
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shahriar08)  
+
+<br/>
+
+## 3. 📊 My Top Used languages
 
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar08"/>
@@ -41,7 +53,6 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-
 ## 4. Connect With Me:
 
 <p align="left">
@@ -50,3 +61,5 @@
 <a href = "mailto:anik7744@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 
 </p>
+
+![Profile views](https://gpvc.arturio.dev/shahriar08)
